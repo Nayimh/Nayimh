@@ -2,7 +2,9 @@
 #### React Developer
 I am a fresher front-end React Developer also familiar with MongoDB, Nodejs, and express. Currently, I'm exploring for a job or internship. The aim behind looking for a job is to improve my initial programming knowledge to become an expert full-stack developer by contributing to company growth and working with professionals and experts.
 
-Skills: REACT / JS / HTML / CSS
+Skills: JS / React / HTML / CSS / Bootstrap / Tailwind / MUI / Nodejs / Express 
+Tools & technologies: Firebase / React Router Dom v5 & v6 / Netlify / GitHub / Git / Heroku 
+DataBase: MongoDB
 
 - 🔭 I’m currently working on Few Crud Projects using React, Node, Express and MongoDB 
 - 🌱 I’m currently learning Nodejs and Expressjs 
